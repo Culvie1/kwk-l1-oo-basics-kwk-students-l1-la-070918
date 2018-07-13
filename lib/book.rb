@@ -1,7 +1,9 @@
 # book.rb
 class Book
-  attr_accessor :title
+  attr_accessor :author, :page_count, :genre, :title
   def initialize(title)
+ @author = 
+ 
   @title = title
   end
   end 
