@@ -8,4 +8,6 @@ class Book
 end
 
 book_one = Book.new("And Then There Were None")
+
+puts 
 # Add you Book class here
