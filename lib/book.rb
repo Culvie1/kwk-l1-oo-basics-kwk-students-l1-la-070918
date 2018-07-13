@@ -4,6 +4,7 @@ class Book
   def initialize(title)
   @title = title
   end
+  end 
 end
 
 # Add you Book class here
