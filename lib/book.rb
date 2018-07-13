@@ -9,5 +9,5 @@ end
 
 book_one = Book.new("And Then There Were None")
 
-puts 
+puts book_one
 # Add you Book class here
