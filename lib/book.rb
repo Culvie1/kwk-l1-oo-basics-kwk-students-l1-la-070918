@@ -7,5 +7,5 @@ class Book
   end 
 end
 
-book_one = Book.new()
+book_one = Book.new("And Then There Were None")
 # Add you Book class here
